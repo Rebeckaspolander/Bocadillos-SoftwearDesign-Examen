@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bocadillos", "bocadillos\bocadillos.csproj", "{089CDE01-4AE2-4713-A577-A7529CA8B732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BocadillosTests", "BocadillosTests\BocadillosTests.csproj", "{DAF36AB7-55AC-4D2E-9C41-144217C0D969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089CDE01-4AE2-4713-A577-A7529CA8B732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089CDE01-4AE2-4713-A577-A7529CA8B732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089CDE01-4AE2-4713-A577-A7529CA8B732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089CDE01-4AE2-4713-A577-A7529CA8B732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF36AB7-55AC-4D2E-9C41-144217C0D969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF36AB7-55AC-4D2E-9C41-144217C0D969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF36AB7-55AC-4D2E-9C41-144217C0D969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF36AB7-55AC-4D2E-9C41-144217C0D969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B64C88E-A717-416E-BA20-7C9708EC610F}
+	EndGlobalSection
+EndGlobal
